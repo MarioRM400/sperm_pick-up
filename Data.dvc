@@ -1,6 +1,32 @@
 outs:
-- md5: 06b7296d3a674067ea2777f1996bf1cf.dir
-  size: 1823724
-  nfiles: 4
-  hash: md5
+- hash: md5
   path: Data
+  files:
+  - relpath: data.zip
+    md5: 3f0263089a4f8789871c4e11fd17ac26
+    size: 1319939
+    cloud:
+      storage:
+        etag: 08a7f2988bb79085031001
+        version_id: '1711404636059943'
+  - relpath: sperm1.jpg
+    md5: 076ccf1838e1116c387907f10e4b11c9
+    size: 248412
+    cloud:
+      storage:
+        etag: 08b7d28a8bb79085031001
+        version_id: '1711404635826487'
+  - relpath: sperm2.jpg
+    md5: e0ab340a4d41d90d7943287ad232913e
+    size: 244371
+    cloud:
+      storage:
+        etag: 08d9e0f98ab79085031001
+        version_id: '1711404635549785'
+  - relpath: sperm_cut.jpg
+    md5: ac042a1577dd4c3c10b6e57cf656a850
+    size: 11002
+    cloud:
+      storage:
+        etag: 08b1a6d48ab79085031001
+        version_id: '1711404634936113'
