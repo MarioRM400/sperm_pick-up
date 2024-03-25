@@ -1,0 +1,18 @@
+outs:
+- hash: md5
+  path: Weights
+  files:
+  - relpath: sperm.pt
+    md5: a7db0647878ef1e6819c76853323c51f
+    size: 92781248
+    cloud:
+      storage:
+        etag: 08a2f9c890b79085031001
+        version_id: '1711404647333026'
+  - relpath: unet.pt
+    md5: 4df7d84d396233c99e1301269e7e58e0
+    size: 206685882
+    cloud:
+      storage:
+        etag: 08c0b7f194b79085031001
+        version_id: '1711404656384960'
